@@ -80,6 +80,10 @@ title('Inverse FFT OF X(K)');
 
 # OUTPUT: 
 
+<img width="918" height="869" alt="image" src="https://github.com/user-attachments/assets/d8d87bf5-8e39-4ca7-87b8-abd4fad86bf8" />
 
+<img width="924" height="867" alt="image" src="https://github.com/user-attachments/assets/d38fd3af-8e69-42e6-8475-557e9e3a36a9" />
 
 # RESULT: 
+
+Thus, the Discrete Fourier Transform and Fast Fourier Transform of the given sequence was obtained and its magnitude and phase spectrum were plotted.
